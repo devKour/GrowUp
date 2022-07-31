@@ -8,6 +8,6 @@ class AppTheme {
         primaryColor: Colors.black,
         accentColor: Colors.black,
         splashColor: Colors.transparent,
-        fontFamily: '');
+        fontFamily: 'OpenSans');
   }
 }
